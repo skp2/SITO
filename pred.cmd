@@ -1,0 +1,1 @@
+"\Program Files\VowpalWabbit\vw.exe" -i model.vw -t ./data/test.vw -p ./data/preds.vw --loss_function logistic --link logistic
